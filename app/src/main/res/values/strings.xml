@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tarrer-dos-android</string>
+    <string name="X1">X1</string>
+    <string name="Y1">Y1</string>
+    <string name="X2">X2</string>
+    <string name="Y2">Y2</string>
+    <string name="PuntoMedio">Punto Medio</string>
+    <string name="Pendiente">Pendiente</string>
+    <string name="Cuadrente">Cuadrante</string>
+    <string name="Aleatorio">Aleatorio</string>
+    <string name="Distancia">Distancia</string>
+</resources>

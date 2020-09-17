@@ -1,0 +1,11 @@
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/m1"
+        android:title="@string/Aleatorio" />
+    <item
+        android:id="@+id/m2"
+        android:title="@string/Distancia" />
+
+
+</menu>
