@@ -31,7 +31,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:ems="10"
-            android:inputType="number" />
+            android:inputType="numberDecimal|numberSigned" />
 
     </LinearLayout>
 
@@ -55,7 +55,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:ems="10"
-            android:inputType="number" />
+            android:inputType="numberDecimal|numberSigned" />
 
     </LinearLayout>
 
@@ -79,7 +79,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:ems="10"
-            android:inputType="number" />
+            android:inputType="numberDecimal|numberSigned" />
 
     </LinearLayout>
 
@@ -103,30 +103,30 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:ems="10"
-            android:inputType="number" />
+            android:inputType="numberDecimal|numberSigned" />
 
     </LinearLayout>
 
     <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="210dp"
+        android:layout_width="401dp"
+        android:layout_height="189dp"
         android:gravity="bottom|center"
         android:orientation="vertical">
 
         <Button
-            android:id="@+id/button2"
+            android:id="@+id/btnmedio"
             android:layout_width="329dp"
             android:layout_height="wrap_content"
             android:text="@string/PuntoMedio" />
 
         <Button
-            android:id="@+id/button3"
+            android:id="@+id/btnpendiente"
             android:layout_width="329dp"
             android:layout_height="wrap_content"
             android:text="@string/Pendiente" />
 
         <Button
-            android:id="@+id/button4"
+            android:id="@+id/btncuadrante"
             android:layout_width="329dp"
             android:layout_height="wrap_content"
             android:text="@string/Cuadrente" />
